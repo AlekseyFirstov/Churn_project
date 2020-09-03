@@ -1,4 +1,4 @@
-FROM jupyter/datascience-notebook:churn_project_this_jupyter_2
+FROM jupyter/datascience-notebook:latest
 
 COPY requirements.txt requirements.txt
 
