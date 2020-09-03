@@ -8,7 +8,7 @@ Churn prediction (final project of specialization)
 1. Создайте новую папку и войдите в нее с помощью cd и выполните: 
 ```php
 git init
-git pull https://github.com/glebmikha/data-science-project-template.git
+git pull https://github.com/AlekseyFirstov/Churn_project.git
 ```
 2. Запустите контейнер
 ```php
