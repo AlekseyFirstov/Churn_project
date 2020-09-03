@@ -14,3 +14,5 @@ git pull https://github.com/AlekseyFirstov/Churn_project.git
 ```php
 docker-compose up
 ```
+3. Скопируйте ссылку с токеном и вставьте в браузер.
+4. Готово!
